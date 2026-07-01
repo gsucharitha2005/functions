@@ -6,3 +6,4 @@ def count_vowels(text):
     return count
 
 print(count_vowels("Sucharitha"))
+
