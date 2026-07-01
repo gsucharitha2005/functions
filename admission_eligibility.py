@@ -3,5 +3,5 @@ def check_admission_eligibility(age,location):
 		return True
 	else:
 		return False
-print(check_admission_eligibility(12,"rural"))
+print(check_admission_eligibility(11,"rural"))
 print(check_admission_eligibility(10,"urban"))
